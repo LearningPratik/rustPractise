@@ -1,13 +1,13 @@
-// Conditional
+Conditional
 
-// fn main() {
-//     let num: i8 = 9;
+fn main() {
+    let num = 9;
 
-//     if num % 2 == 0 {
-//         println!("{} is even", num)
-//     } else {
-//         println!("{} is odd", num)
-//     }
+    if num % 2 == 0 {
+        println!("{} is even", num)
+    } else {
+        println!("{} is odd", num)
+    }
 
 //     for i in 0..10 {
 //         print!("{} ", i)
