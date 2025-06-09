@@ -6,7 +6,7 @@
 
 // If the s1 goes out of scope, or gets deleted then the value it was pointing to also gets deleted.
 
-// question ? it is given that if variable is out of scope or deleted, the grabage collected will delete its value, what's different ?
+// question ? it is given that if variable is out of scope or deleted, the garbage collector will delete its value, what's different ?
 
 // let s1 = String::from("Hello");
 // let s2 = s1;
